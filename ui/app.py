@@ -19,7 +19,7 @@ from core.evaluator import evaluate_response
 # ================= PAGE CONFIG =================
 st.set_page_config(page_title="AI Benchmark Lab", layout="wide")
 
-st.title("🤖 AI Benchmark Lab — Top 1% AI Evaluation Platform")
+st.title("🤖 AI Benchmark Lab — Real-Time LLM Evaluation Platform")
 st.markdown("### 📊 Compare OSS vs Frontier LLMs with advanced evaluation & analytics")
 
 # ================= SESSION STATE =================
